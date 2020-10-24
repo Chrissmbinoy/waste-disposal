@@ -1,1 +1,2 @@
-# waste-disposal
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
